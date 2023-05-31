@@ -16,3 +16,17 @@
 	<stdint.h>
 	"PNG.h"
 
+1685497174 source:c:\users\lenovo\desktop\proyectopaul\proyectopp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"png.h"
+
+1685354632 c:\users\lenovo\desktop\proyectopaul\proyectopp\include\png.h
+	<stdint.h>
+
+1685497213 source:c:\users\lenovo\desktop\proyectopaul\proyectopp\src\png.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"PNG.h"
+

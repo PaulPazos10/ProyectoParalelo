@@ -1,7 +1,7 @@
 #ifndef PNG_H
 #define PNG_H
 #include <stdint.h>
-
+//estructura de los datos
 typedef struct{
     unsigned char r;
     unsigned char g;
@@ -15,7 +15,7 @@ typedef struct{
     Pixel** pixels;
 } PNG;
 
-
+//metdos de leer y escribir archivos png
 
 PNG* read_image(char* path);
 void write_image(PNG *p, char* path_out);
